@@ -70,8 +70,8 @@ Kontribusi sangat dihargai! Silakan buat pull request atau buka issue jika Anda 
 
 ## Lisensi
 
-Proyek ini dilisensikan di bawah [MIT License](LICENSE).
+Proyek ini dilisensikan di bawah [MIT License](LICENSE)
 
 ## Kontak
 
-Untuk informasi lebih lanjut, kunjungi halaman Instagram kami: [@lampungcysec](https://www.instagram.com/lampungcysec/).
+Untuk informasi lebih lanjut, kunjungi halaman Instagram kami: [@lampungcysec](https://www.instagram.com/lampungcysec/)
