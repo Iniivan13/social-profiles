@@ -16,8 +16,8 @@ OSINT Social Profiles Tool adalah alat berbasis Python yang membantu pengguna me
 1. **Kloning Repository**
 
    ```bash
-   git clone https://github.com/username/repository-name.git
-   cd repository-name
+   git clone https://github.com/Iniivan13/social-profiles.git
+   cd social-profiles
    ```
 
 2. **Install Dependencies**
